@@ -1,0 +1,25 @@
+active = True
+while active:
+    message = input("\nEnter something (or 'quit' to exit): ")
+    
+    if message == 'quit':
+        active = False
+    else:
+        print(message)
+
+# Using a break statement
+while True:
+    message = input("\nEnter something (or 'quit' to exit): ")
+    
+    if message == 'quit':
+        break
+    else:
+        print(message)
+
+# Using a condition directly in the while loop
+message = ""
+while message != 'quit':
+    message = input("\nEnter something (or 'quit' to exit): ")
+    
+    if message != 'quit':
+        print(message)
