@@ -1,0 +1,3 @@
+In Python, you can automate tasks.
+Python makes it easy to work with data.
+Python is fun to learn.
