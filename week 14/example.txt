@@ -1,9 +1,0 @@
-This is the first line of the file.
-Here is the second line.
-This is the third line.
-The quick brown fox jumps over the lazy dog.
-Python programming is fun!
-Learn to code with Python.
-File handling is an essential part of Python programming.
-This file contains several lines of text.
-It also contains some common words like Python and programming.
